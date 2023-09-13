@@ -105,13 +105,14 @@ button:hover{
 /* dark theme */
 
 .calculator.dark{
-    background-color: #272639;
+    background-color: #1f1e30;
 }
 .calculator.dark #display{
     color: #f8fafd;
 }
 .calculator.dark button.btn-operator{
-    background-color: #353959;
+    background-color: #282a3d;
+    
 }
 .calculator.dark button.btn-number{
     background-color: #353959;
